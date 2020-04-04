@@ -1,0 +1,2 @@
+# ninja
+small javascript game
